@@ -1,0 +1,222 @@
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\MBY.dll.config
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\MBY.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\MBY.pdb
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\EntityFramework.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\EntityFramework.SqlServer.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\Microsoft.Web.Infrastructure.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\Newtonsoft.Json.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.Helpers.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.Mvc.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.Razor.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.WebPages.Deployment.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.WebPages.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.WebPages.Razor.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\EntityFramework.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\EntityFramework.SqlServer.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\Newtonsoft.Json.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.Helpers.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.Mvc.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.Razor.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.WebPages.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.WebPages.Deployment.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\bin\System.Web.WebPages.Razor.xml
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\obj\Debug\MBY.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\obj\Debug\MBY.dll
+c:\users\hp\documents\visual studio 2013\Projects\MBY\MBY\obj\Debug\MBY.pdb
+D:\MBY\MBY\bin\MBY.dll.config
+D:\MBY\MBY\bin\MBY.dll
+D:\MBY\MBY\bin\MBY.pdb
+D:\MBY\MBY\bin\EntityFramework.dll
+D:\MBY\MBY\bin\EntityFramework.SqlServer.dll
+D:\MBY\MBY\bin\Microsoft.Web.Infrastructure.dll
+D:\MBY\MBY\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\MBY\MBY\bin\Newtonsoft.Json.dll
+D:\MBY\MBY\bin\System.Web.Helpers.dll
+D:\MBY\MBY\bin\System.Web.Mvc.dll
+D:\MBY\MBY\bin\System.Web.Razor.dll
+D:\MBY\MBY\bin\System.Web.WebPages.Deployment.dll
+D:\MBY\MBY\bin\System.Web.WebPages.dll
+D:\MBY\MBY\bin\System.Web.WebPages.Razor.dll
+D:\MBY\MBY\bin\EntityFramework.xml
+D:\MBY\MBY\bin\EntityFramework.SqlServer.xml
+D:\MBY\MBY\bin\Newtonsoft.Json.xml
+D:\MBY\MBY\bin\System.Web.Helpers.xml
+D:\MBY\MBY\bin\System.Web.Mvc.xml
+D:\MBY\MBY\bin\System.Web.Razor.xml
+D:\MBY\MBY\bin\System.Web.WebPages.xml
+D:\MBY\MBY\bin\System.Web.WebPages.Deployment.xml
+D:\MBY\MBY\bin\System.Web.WebPages.Razor.xml
+D:\MBY\MBY\obj\Debug\MBY.csprojResolveAssemblyReference.cache
+D:\MBY\MBY\obj\Debug\MBY.dll
+D:\MBY\MBY\obj\Debug\MBY.pdb
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\MBY.dll.config
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\MBY.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\MBY.pdb
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\EntityFramework.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\EntityFramework.SqlServer.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\Newtonsoft.Json.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Net.Http.Formatting.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Helpers.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Http.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Http.WebHost.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Mvc.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Razor.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.WebPages.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.WebPages.Razor.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\EntityFramework.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\EntityFramework.SqlServer.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\Newtonsoft.Json.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Net.Http.Formatting.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Helpers.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Http.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Http.WebHost.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Mvc.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.Razor.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.WebPages.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\bin\System.Web.WebPages.Razor.xml
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\obj\Debug\MBY.csprojAssemblyReference.cache
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\obj\Debug\MBY.csproj.CoreCompileInputs.cache
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\obj\Debug\MBY.csproj.CopyComplete
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\obj\Debug\MBY.dll
+C:\Users\FurkanPC\Desktop\MBY\MBY\MBY\obj\Debug\MBY.pdb
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\MBY.dll.config
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\MBY.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\MBY.pdb
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\EntityFramework.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\EntityFramework.SqlServer.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\Newtonsoft.Json.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Net.Http.Formatting.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Helpers.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Http.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Http.WebHost.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Mvc.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Razor.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.WebPages.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Razor.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\EntityFramework.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\EntityFramework.SqlServer.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\Newtonsoft.Json.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Net.Http.Formatting.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Helpers.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Http.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Http.WebHost.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Mvc.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.Razor.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.WebPages.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Razor.xml
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\obj\Debug\MBY.csprojAssemblyReference.cache
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\obj\Debug\MBY.csproj.CoreCompileInputs.cache
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\obj\Debug\MBY.csproj.CopyComplete
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\obj\Debug\MBY.dll
+C:\Users\FurkanPC\Desktop\MBY (1)\MBY\MBY\obj\Debug\MBY.pdb
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.dll.config
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.pdb
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.SqlServer.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Newtonsoft.Json.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Net.Http.Formatting.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Helpers.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.WebHost.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Mvc.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Razor.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Razor.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.SqlServer.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Newtonsoft.Json.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Net.Http.Formatting.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Helpers.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.WebHost.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Mvc.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Razor.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Razor.xml
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csprojAssemblyReference.cache
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csproj.CoreCompileInputs.cache
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csproj.CopyComplete
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.dll
+C:\Users\FurkanPC\Desktop\site yedek 06.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.pdb
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.dll.config
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.pdb
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.SqlServer.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Newtonsoft.Json.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Net.Http.Formatting.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Helpers.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.WebHost.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Mvc.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Razor.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Razor.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.SqlServer.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Newtonsoft.Json.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Net.Http.Formatting.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Helpers.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.WebHost.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Mvc.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Razor.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Razor.xml
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csprojAssemblyReference.cache
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csproj.CoreCompileInputs.cache
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csproj.CopyComplete
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.dll
+C:\Users\FurkanPC\Desktop\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.pdb
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.dll.config
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\MBY.pdb
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.SqlServer.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Newtonsoft.Json.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Net.Http.Formatting.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Helpers.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.WebHost.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Mvc.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Razor.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Razor.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\EntityFramework.SqlServer.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\Newtonsoft.Json.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Net.Http.Formatting.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Helpers.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Http.WebHost.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Mvc.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.Razor.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\bin\System.Web.WebPages.Razor.xml
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csprojAssemblyReference.cache
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csproj.CoreCompileInputs.cache
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.csproj.CopyComplete
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.dll
+C:\Users\FurkanPC\Desktop\Yeni klasör\site yedek 08.12.2020 00_54 - Kopya\MBY (1)\MBY\MBY\obj\Debug\MBY.pdb
